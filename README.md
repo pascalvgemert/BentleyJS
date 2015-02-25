@@ -43,7 +43,7 @@ The binding points to an public method in the Controller. (See example above)
 <!DOCTYPE html>
 <html bt_app="my_app">
     <head>
-        <title>Page 1</title>
+        <title>Page Title</title>
         <script data-main="js/main.js" src="js/lib/require.min.js"></script>
     </head>
     <body>
