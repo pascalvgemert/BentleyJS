@@ -1,6 +1,11 @@
 # BentleyJS
 A lightweight declarative event binding framework build on JQuery
 
+### Size
+Uncompressed size: 4.07kb
+Minified size: 2.07kb
+GZipped size: 773b
+
 ### Dependencies
 * Jquery version 1.x
 * RequireJS
