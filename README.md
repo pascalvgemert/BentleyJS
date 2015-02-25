@@ -49,8 +49,6 @@ The binding points to an public method in the Controller. (See example above)
     <body>
         <div bt_controller="ExampleController">
             <a href="javascript:void(0);" bt_click="helloWorld">Do Hello World</a>
-            
-            <div class="container"></div>
         </div>
     </body>
 </html>
