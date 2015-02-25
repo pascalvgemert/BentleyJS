@@ -55,3 +55,13 @@ The binding points to an public method in the Controller. (See example above)
     </body>
 </html>
 ```
+
+### Advanced
+
+##### On Ready
+BentleyJS has it's own Ready function.  
+`BT.on('ready', function() { /* do something */ });`
+
+##### Calling Controllers from other Controllers
+To call a controller from another controller to reuse methods, you can use the `BT.controller('ControllerName')` method.  
+You can also chain the method behind it. `BT.controller('ControllerName').method();`
