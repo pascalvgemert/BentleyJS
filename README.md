@@ -1,5 +1,5 @@
 # BentleyJS
-A lightweight declarative event binding framework build on JQuery
+A lightweight declarative event binding framework build on JQuery. The best part of the Framework is that with RequireJS the controllers are lazy loaded and a minimum of resources are loaded on the first request. 
 
 ### Size
 Uncompressed size: 4.07kb  
